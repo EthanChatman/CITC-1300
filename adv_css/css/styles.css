@@ -9,6 +9,8 @@ body{background-color:darkred;}
 
     #poster {width:80%;}
 
+    #poster_2 {height:40%; width:80%;}
+
     .heading_style {text-shadow:2px 2px 2px black;color: rgb(147, 33, 4);}
 
     .heading_style_2 {text-shadow:2px 2px 2px lightgrey;color: darkgrey;}
