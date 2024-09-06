@@ -28,7 +28,7 @@ body{background-color:darkred;}
 
     nav li{display: inline-block;}
 
-    nav li a{display: block; color:orange; font: size 25px;font-weight: bold;text-decoration:none;margin:0 10px; width: 125px;height: 35px; line-height: 35px;}
+    nav li a{display: block; color:orange; font-size: 25px;font-weight: bold;text-decoration:none;margin:0 10px; width: 125px;height: 35px; line-height: 35px;}
 
     nav a:hover{background-color:darkred; color:black;}
 
