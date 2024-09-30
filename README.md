@@ -7,3 +7,5 @@
 <a href="adv_css/index.html" target="_blank">Advanced CSS</a>
 
 <a href="Responsive/index.html" target="_blank">Responsive Web Design</a>
+
+<a href="Final/index.html" target="_blank">Final Project</a>
